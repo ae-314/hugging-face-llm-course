@@ -1,5 +1,6 @@
-# hugging-face-llm-course
+# Hugging-Face-LLM-course work
 A repo to store Colab notebooks of transformer fine-tuning and other hugging face llm course activities.
+link to my hugging face: https://huggingface.co/ae-314/models
 
 transformer-fine-tuning:
 -------------------------
