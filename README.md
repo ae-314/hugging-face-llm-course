@@ -7,3 +7,4 @@ transformer-fine-tuning:
 
 - Contains Google Colab notebooks from the official hugging face LLM course
 - Copy of sequence classification notebook (fine-tuned DistilBERT on the imdb dataset to classify reviews as either positive or negative)
+- imdb_review_classifier_demo notebook (We use my freshly fine-tuned DistilBERT for text classification with a pipeline and 3 custom film review examples as a demo)
